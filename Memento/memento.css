@@ -1,0 +1,16 @@
+﻿body {
+    text-align: center;
+}
+
+p{
+     text-align: left;
+}
+.homepagetext
+{
+    text-indent: 10%; 
+}
+a{
+    margin: 5%;
+    margin-top: 1%;
+    padding: 2%;
+}
