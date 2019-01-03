@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="index.html" />
     <Content Include="memento.css" />
+    <Content Include="memento2.css" />
     <Content Include="parti1.html" />
     <Content Include="parti2.html" />
     <Content Include="Web.config" />

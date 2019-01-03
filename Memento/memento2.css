@@ -1,0 +1,36 @@
+﻿body {
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color: #242038;
+    color: white;
+    font-size: 1.5em;
+}
+h1 {
+    font-size: 3em;
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+a {
+    color: #8D86C9;
+    background-color: #CAC4CE;
+    border: 2px inset #8D86C9;
+    text-decoration: none;
+}
+a:hover {
+        background-color: #9067C6;
+        color: white;
+ }
+a:active
+{
+    background-color: red;
+}
+ul {
+    color: black;
+    padding: 2%;
+    background-color: #F7ECE1;
+    list-style-type: none;
+    margin-left: 2%;
+}
